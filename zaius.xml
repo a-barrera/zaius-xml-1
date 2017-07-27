@@ -35322,7 +35322,7 @@
 	</attribute>
 	<attribute>
 		<id>BMC_MANUFACTURER</id>
-		<default>ibm</default>
+		<default>ingrasys</default>
 	</attribute>
 	<attribute>
 		<id>BMC_SW_TYPE</id>
