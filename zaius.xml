@@ -13242,6 +13242,58 @@
 		<default>BUS</default>
 		</bus_attribute>
 	</bus>
+        <bus>
+                <bus_id>proc_socket-0/module-0/p9_proc_l/obus0/obus-brick0 => obusslot-0/gv100card-0/brick-0</bus_id>
+                <bus_type>OBUS</bus_type>
+                <cable>no</cable>
+                <source_path>proc_socket-0/module-0/p9_proc_l/obus0/</source_path>
+                <source_target>obus-brick0</source_target>
+                <dest_path>obusslot-0/gv100card-0/</dest_path>
+                <dest_target>brick-0</dest_target>
+                <bus_attribute>
+                        <id>CLASS</id>
+                <default>BUS</default>
+                </bus_attribute>
+        </bus>
+        <bus>
+                <bus_id>proc_socket-0/module-0/p9_proc_l/obus0/obus-brick2 => obusslot-0/gv100card-0/brick-1</bus_id>
+                <bus_type>OBUS</bus_type>
+                <cable>no</cable>
+                <source_path>proc_socket-0/module-0/p9_proc_l/obus0/</source_path>
+                <source_target>obus-brick2</source_target>
+                <dest_path>obusslot-0/gv100card-0/</dest_path>
+                <dest_target>brick-1</dest_target>
+                <bus_attribute>
+                        <id>CLASS</id>
+                <default>BUS</default>
+                </bus_attribute>
+        </bus>
+        <bus>
+                <bus_id>proc_socket-1/module-0/p9_proc_l/obus0/obus-brick0 => obusslot-1/gv100card-0/brick-0</bus_id>
+                <bus_type>OBUS</bus_type>
+                <cable>no</cable>
+                <source_path>proc_socket-1/module-0/p9_proc_l/obus0/</source_path>
+                <source_target>obus-brick0</source_target>
+                <dest_path>obusslot-0/gv100card-0/</dest_path>
+                <dest_target>brick-0</dest_target>
+                <bus_attribute>
+                        <id>CLASS</id>
+                <default>BUS</default>
+                </bus_attribute>
+        </bus>
+        <bus>
+                <bus_id>proc_socket-1/module-0/p9_proc_l/obus0/obus-brick2 => obusslot-1/gv100card-0/brick-1</bus_id>
+                <bus_type>OBUS</bus_type>
+                <cable>no</cable>
+                <source_path>proc_socket-1/module-0/p9_proc_l/obus0/</source_path>
+                <source_target>obus-brick2</source_target>
+                <dest_path>obusslot-1/gv100card-0/</dest_path>
+                <dest_target>brick-1</dest_target>
+                <bus_attribute>
+                        <id>CLASS</id>
+                <default>BUS</default>
+                </bus_attribute>
+        </bus>
 </targetInstance>
 <targetInstance>
 	<id>vpd_assoc_child</id>
