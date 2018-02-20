@@ -9004,7 +9004,7 @@
 	</attribute>
         <attribute>
                 <id>ENABLE_MEM_EARLY_DATA_SCOM</id>
-                <default>OFF</default>
+                <default>ON</default>
         </attribute>
 	<attribute>
 		<id>EFFECTIVE_EC</id>
