@@ -35773,7 +35773,7 @@
 	</attribute>
 	<attribute>
 		<id>OBUS_BRICK_LANE_MASK</id>
-		<default></default>
+		<default>0xF1E000</default>
 	</attribute>
 	<attribute>
 		<id>OPTICS_CONFIG_MODE</id>
@@ -35885,7 +35885,7 @@
 	</attribute>
 	<attribute>
 		<id>OBUS_BRICK_LANE_MASK</id>
-		<default></default>
+		<default>0x78F</default>
 	</attribute>
 	<attribute>
 		<id>OPTICS_CONFIG_MODE</id>
