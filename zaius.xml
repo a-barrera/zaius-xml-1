@@ -4873,7 +4873,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0xFC</value>
+	<value>0xBC</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -8809,7 +8809,7 @@
 	<id>/sys-0/bifurcated_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x0D</value>
+	<value>0xFC</value>
 	</property>
 </globalSetting>
 </globalSettings>
